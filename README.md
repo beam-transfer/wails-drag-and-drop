@@ -17,3 +17,7 @@ to this in your browser, and you can call your Go code from devtools.
 ## Building
 
 To build a redistributable, production mode package, use `wails build`.
+
+## Demo
+
+https://github.com/beam-transfer/wails-drag-and-drop/assets/1060032/e3ffb854-bc4d-48ff-b559-4f5057488ecc
